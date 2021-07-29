@@ -45,6 +45,9 @@ body{
 .p-color{
     color: #f24432;
 }
+.img-grayscale{
+    filter: grayscale(100%);
+}
 .border-style{
     height: 560px;
     width: 370px;
